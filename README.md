@@ -1,7 +1,6 @@
 # About me
-- 👋 Hi, I’m @GatewayDuck
-- 👀 I’m interested in Learning 
-- 🌱 I’m currently learning Everything
+- 👋 Hi, I’m @GatewayDuck 
+- 🌱 I’m currently learning AI Modeling
 - 💞️ I’m looking to collaborate on Anything
 - 📫 You can email me at gatewayduck@gmail.com
 
