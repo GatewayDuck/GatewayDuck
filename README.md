@@ -1,8 +1,7 @@
 # About me
-- 👋 Hi, I’m @GatewayDuck 
-- 🌱 I’m currently learning AI Modeling
-- 💞️ I’m looking to collaborate on Anything
-- 📫 You can email me at gatewayduck@gmail.com
+- Hi, I'm gatewayduck! I'm a tech student who began learning pen testing and coding in 6th grade. I have a passion for solving problems and am currently working on AI projects.
+
+
 
 <!---
 GatewayDuck/GatewayDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
